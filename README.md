@@ -9,13 +9,13 @@ Direct MP3 Links (Streaming)
 Replace [filename].mp3 with the surah/reciter you need:
 (Right now there is only one reciter but I may add more)
 
-https://alkarartech.github.io./arabic_letters/letter-##.mp3
+https://alkarartech.github.io./arabic-letters/letter-##.mp3
 
 (### << surah number i.e. Surah Al-Fatiha is 001)
 
 ### Example:
 
-[https://alkarartech.github.io./quran-audio/001.mp3](https://alkarartech.github.io./arabic_letters/letter-1.mp3)
+[https://alkarartech.github.io./quran-audio/001.mp3](https://alkarartech.github.io./arabic-letters/letter-1.mp3)
 
 #### Embed in HTML (Audio Player)
 html
@@ -29,7 +29,7 @@ For Developers (JavaScript Example)
 javascript
 
 
-const audio = new Audio("https://alkarartech.github.io./arabic_letters/letter-1.mp3");
+const audio = new Audio("https://alkarartech.github.io./arabic-letters/letter-1.mp3");
 audio.play(); // Play programmatically
 
 ## ⚠️ Important Notes
