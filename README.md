@@ -15,7 +15,7 @@ https://alkarartech.github.io./arabic-letters/letter-##.mp3
 
 ### Example:
 
-[https://alkarartech.github.io./quran-audio/001.mp3](https://alkarartech.github.io./arabic-letters/letter-1.mp3)
+(https://alkarartech.github.io./arabic-letters/letter-1.mp3)
 
 #### Embed in HTML (Audio Player)
 html
